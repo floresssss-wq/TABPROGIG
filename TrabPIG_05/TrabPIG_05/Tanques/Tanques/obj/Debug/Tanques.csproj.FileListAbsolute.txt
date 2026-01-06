@@ -1,0 +1,68 @@
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.csprojAssemblyReference.cache
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.csproj.CoreCompileInputs.cache
+C:\Users\tneve\source\repos\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\tneve\source\repos\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\tneve\source\repos\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\tneve\source\repos\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\Utilizador\Desktop\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\Utilizador\Desktop\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\Utilizador\Desktop\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\Utilizador\Desktop\Tanques\Tanques\obj\Debug\Tanques.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\Utilizador\Desktop\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\Utilizador\Desktop\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\obj\Debug\Tanques.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\Utilizador\Desktop\trabalho de pig\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\Duarte\Desktop\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\Duarte\Desktop\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\Duarte\Desktop\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.csprojAssemblyReference.cache
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.csproj.CoreCompileInputs.cache
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\Duarte\Desktop\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.AssemblyReference.cache
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.CoreCompileInputs.cache
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\neon\Downloads\TrabPig04\Tanques\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\Utilizador\Desktop\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.AssemblyReference.cache
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.GenerateResource.cache
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.csproj.CoreCompileInputs.cache
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\lyzex\Downloads\TrabPROGIG\TrabPROGIG\Tanques\Tanques\Tanques\obj\Debug\Tanques.pdb

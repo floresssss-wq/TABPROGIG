@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\TrabPIG_05.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\TrabPIG_05.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\TrabPIG_05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\User\Desktop\TrabPROGIG\Tanques\Tanques\obj\Debug\Tanques.pdb
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\bin\Debug\Tanques.exe.config
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\bin\Debug\Tanques.exe
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\bin\Debug\Tanques.pdb
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\TrabPIG_05.csproj.AssemblyReference.cache
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\Tanques.exe.config
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\Tanques.FormMain.resources
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\Tanques.Properties.Resources.resources
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\TrabPIG_05.csproj.GenerateResource.cache
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\TrabPIG_05.csproj.CoreCompileInputs.cache
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\Tanques.exe
+C:\Users\André Flores\Downloads\TrabPIG_05\TrabPIG_05\Tanques\Tanques\obj\Debug\Tanques.pdb
